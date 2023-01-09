@@ -1,0 +1,16 @@
+img {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color:aliceblue;
+  }
+
+thead{
+    background-color: rgb(218, 227, 254);
+}
+  
